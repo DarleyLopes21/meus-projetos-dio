@@ -1,2 +1,2 @@
-# Meus projetos e códigos
-Em diversas linguagens, algoritmos (organizado em pastas - assuntos)
+# Meus projetos e códigos 💻
+Em diversas linguagens, algoritmos (organizado em pastas - assuntos) 📁
